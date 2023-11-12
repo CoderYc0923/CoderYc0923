@@ -8,7 +8,6 @@ I want to secure my own life and then do what I want to do.🐟🐟🐟
 
 - 🔭 I’m currently writing some amateur [open source projects](https://github.com/CoderYc0923?tab=repositories)
 - 🌱 I’m currently learning Computer & AI & AR, and want to learn everything interesting.
-- 🤔 I want to make a pure front-end (more html & css than canvas) AVG engine. I call it [advjs](https://www.advjs.org/).
 - ❤️ I like eating 🍉, eating 🍖, eating 🍗 (It's so important that it should be repeated for three times.)
 - 💬 Be free to ask me about anything [here](https://github.com/CoderYc0923/CoderYc0923/issues).
 
