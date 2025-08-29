@@ -1,8 +1,4 @@
-### Hi there, I'm Cyrus Ye. 👋
-
-My philosophy is 执中而易.
-I adhere to the Doctrine of the Mean and follow the laws of change. 
-I'm just an ordinary man looking for freedom.
+### 执中而易
 
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=CoderYc0923&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
