@@ -7,7 +7,7 @@
     <a href="https://zh.wikipedia.org/wiki/%E8%87%AA%E7%84%B6">自然</a>
     • 
     <a href="https://zh.wikipedia.org/wiki/%E8%89%BA%E6%9C%AF">艺术</a>
-    —————
+    ——→
     <a href="https://zh.wikipedia.org/wiki/%E9%81%93">道</a>
     <br />
     <a href="https://www.javascript.com/">js</a>
