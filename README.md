@@ -1,15 +1,10 @@
-### Hi there, I'm yc. 👋
+### Hi there, I'm Cyrus Ye. 👋
 
+My philosophy is 执中而易.
+I adhere to the Doctrine of the Mean and follow the laws of change. 
 I'm just an ordinary man looking for freedom.
-Do what I want to do.
-Type the code I want to type.
 
-I want to secure my own life and then do what I want to do.🐟🐟🐟
-
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/CoderYc0923?tab=repositories)
-- 🌱 I’m currently learning Computer & AI & AR, and want to learn everything interesting.
-- ❤️ I like eating 🍉, eating 🍖, eating 🍗 (It's so important that it should be repeated for three times.)
-- 💬 Be free to ask me about anything [here](https://github.com/CoderYc0923/CoderYc0923/issues).
+<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=CoderYc0923&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 
 ---
 
@@ -18,7 +13,7 @@ I want to secure my own life and then do what I want to do.🐟🐟🐟
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderYc0923&count_private=true&show_icons=true&theme=tokyonight"/>
-<img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=CoderYc0923&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
+
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
