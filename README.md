@@ -1,3 +1,23 @@
 ### 执中而易
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderYc0923&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=10&hide=html,css,scss,less,vue"/>
+<div align="center">
+  <samp>
+    <a href="https://github.com/vuejs">js</a>
+    • 
+    <a href="https://github.com/vuejs">ts</a>
+    •
+    <a href="https://github.com/vueuse">vue</a>
+    •
+    <a href="https://github.com/vue-macros">react</a>
+    •
+    <a href="https://github.com/elk-zone">nodejs</a>
+    •
+    <a href="https://github.com/unplugin">honojs</a>
+    •
+    <a href="https://github.com/unjs">solidity</a>
+    •
+    <a href="https://github.com/quansync-dev">ethers</a>
+    •
+    <a href="https://github.com/rolldown">c#</a>
+  </samp>
+</div>
