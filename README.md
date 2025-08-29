@@ -14,10 +14,10 @@ I want to secure my own life and then do what I want to do.🐟🐟🐟
 ---
 
 #### Languages
-
 <!-- github-stats:start -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<img align="left" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderYc0923&count_private=true&show_icons=true&theme=tokyonight"/>
 <img align="right" width="450" src="https://github-readme-stats.vercel.app/api?username=CoderYc0923&show_icons=true&icon_color=0078e7&title_color=0078e7&include_all_commits=true"/>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
