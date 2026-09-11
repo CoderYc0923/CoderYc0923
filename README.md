@@ -14,18 +14,22 @@
     • 
     <a href="https://www.typescriptlang.org/">ts</a>
     •
-    <a href="https://soliditylang.org/">solidity</a>
-    •
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">c#</a>
-    •
     <a href="https://react.dev/">react</a>
     •
     <a href="https://vuejs.org/">vue</a>
     •
-    <a href="https://ethers.org/">ethers</a>
-    •
     <a href="https://nodejs.org/">nodejs</a>
     •
     <a href="https://hono.dev/">honojs</a>
+    <br />
+    <a href="https://soliditylang.org/">solidity</a>
+    •
+    <a href="https://ethers.org/">ethers</a>
+    •
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp">c#</a>
+    •
+    <a href="https://www.java.com/">java</a>
+    <br />
+    <a href="https://en.wikipedia.org/wiki/AI_agent">ai-agent😶</a>
   </samp>
 </div>
