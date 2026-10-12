@@ -29,6 +29,8 @@
     <a href="https://dotnet.microsoft.com/en-us/languages/csharp">c#</a>
     •
     <a href="https://www.java.com/">java</a>
+    •
+    <a href="https://www.python.org/">python</a>
     <br />
     <a href="https://en.wikipedia.org/wiki/AI_agent">ai-agent😶</a>
   </samp>
